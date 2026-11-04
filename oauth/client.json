@@ -1,0 +1,9 @@
+{
+  "client_id": "https://c2cwl.github.io/clma-oauth/oauth/client.json",
+  "client_name": "CLmA",
+  "client_uri": "https://github.com/C2CWL/CLmA",
+  "redirect_uris": ["http://localhost:52134/oauth/callback"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none"
+}
